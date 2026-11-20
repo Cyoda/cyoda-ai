@@ -61,7 +61,7 @@
 
     <service name="CyodaAIService">
         <port name="CyodaAIServicePort" binding="tns:CyodaAIServiceBinding">
-            <soap:address location="https://raw.githubusercontent.com/Cyoda-platform/cyoda-ai/refs/heads/main/data/test-inputs/v1/mappings/tender_level_2.json"/>
+            <soap:address location="https://raw.githubusercontent.com/Cyoda/cyoda-ai/refs/heads/main/data/test-inputs/v1/mappings/tender_level_2.json"/>
         </port>
     </service>
 
