@@ -70,7 +70,7 @@
                 {
                     "@bean": "com.cyoda.plugins.datasource.dtos.connection.HttpConnectionDetailsDto",
                     "name": "insurance_data_cleaning",
-                    "baseUrl": "https://raw.githubusercontent.com/Cyoda-platform/cyoda-ai/refs/heads/main/example/resources",
+                    "baseUrl": "https://raw.githubusercontent.com/Cyoda/cyoda-ai/refs/heads/main/example/resources",
                     "headers": {},
                     "authType": "NONE",
                     "authConfig": {
